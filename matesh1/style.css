@@ -1,0 +1,9 @@
+
+
+.food:hover{
+    color: coral;
+}
+
+.text::first-letter{
+    color: blue;
+}
